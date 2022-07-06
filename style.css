@@ -71,7 +71,7 @@ body{
 .spacing{
     word-spacing: 60px;
 }
-p{
+.last{
     text-align: center;
     margin-top: 100px;
 }
@@ -100,9 +100,21 @@ p{
     color: black;
     font-weight: 700;
     font-size: xx-large;
-    margin-top: 100px;
+    margin-top: 60px;
+    margin-bottom: 0px;
 }
 .paragraph-2{
     text-align: center;
     margin-top: 0;
+}
+.Donation-plans{
+    display: flex;
+    width: auto;
+    height: auto;
+    margin-top: 70px;
+    text-align: left;
+}
+.flexible-container{
+    display: flex;
+    margin: 100px;
 }
