@@ -1,4 +1,4 @@
-.allign{
+.align{
     text-align: center;
     color: white;
     font-weight: 700;
@@ -34,4 +34,75 @@ body{
     background-size: cover;
     margin: 0;
     padding: 0;
+}
+.second-stage{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.orange{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    margin-top: 50px;
+    box-shadow: 10px 10px 20px grey;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: black;
+    font-weight: 550;
+    border-radius: 5px ;
+    margin-left: 12.5%;
+}
+.shadow{
+    text-decoration: none;
+    margin-top: 50px;
+    box-shadow: 10px 10px 20px grey;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: black;
+    font-weight: 550;
+    border-radius: 5px ;
+    margin-left: 12.5%;
+}
+.spacing{
+    word-spacing: 60px;
+}
+p{
+    text-align: center;
+    margin-top: 100px;
+}
+.h{
+    width: 50%;
+    height: 7px;
+    border: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+.link-button-2{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 550;
+    border-radius: 5px;
+    margin-left: 45.5%;
+    margin-top: 25px;
+}
+.allign-2{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    font-size: xx-large;
+    margin-top: 100px;
+}
+.paragraph-2{
+    text-align: center;
+    margin-top: 0;
 }
