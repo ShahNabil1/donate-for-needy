@@ -1,0 +1,37 @@
+.allign{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: xx-large;
+}
+.paragraph{
+    text-align: center;
+    color: white;
+    font-weight: 700; 
+    font-size: medium;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 550;
+    border-radius: 5px;
+    margin-left: 37%;
+}
+.top-banner{
+    background:linear-gradient(rgb(0, 0, 0) rgba(0,0,0.3)); 
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    height: 60vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
